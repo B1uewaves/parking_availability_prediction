@@ -35,7 +35,7 @@ This project uses machine learning models—**Random Forest Regressor** and **Li
 - Matplotlib (for visualization)
 
 ---
-
+```
 ## 📁 Project Structure
 
 ├── parking_availability/
@@ -43,3 +43,4 @@ This project uses machine learning models—**Random Forest Regressor** and **Li
 │ ├── notebooks/ # Jupyter Notebooks
 │ ├── exported/ # Exported HTML reports
 ├── README.md
+```
